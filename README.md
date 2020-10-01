@@ -15,6 +15,6 @@ THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR IMPLIED WAR
 
 ## How to install
 1. 
-"""
+```
 git clone https://github.com/mtoutai/ot_thermocycler_standalone.git
-"""
+```
