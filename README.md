@@ -1,4 +1,4 @@
-# Run Opentrons Thermocycler Stand-alone!
+# Run Opentrons Thermocycler Stand-alone
 This is a small python script to operate the [Thermocycler Module](https://www.opentrons.com/modules/#thermocycler)  WITHOUT OT-2 Robot.
 
 ## Background
